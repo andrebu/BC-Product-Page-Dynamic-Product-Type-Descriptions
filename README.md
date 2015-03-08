@@ -17,10 +17,6 @@ BC Product Page Dynamic Product Type Descriptions
 
     Just install and it'll do the work for you!  
 
-## Resources
-
-1. []()
-
 ## Some BigCommerce modules I made
 
 * [BigCommerce Carousel Slider Slide Show Custom](https://github.com/iamandrebulatov/BC-Carousel-Slider-Slide-Show-Custom)
@@ -39,6 +35,7 @@ BC Product Page Dynamic Product Type Descriptions
 * [BigCommerce Welcoming Age Gate](https://github.com/iamandrebulatov/BC-Welcoming-Age-Gate)
 * [BigCommerce 360 Product View](https://github.com/iamandrebulatov/BC-360-Product-View)
 * [BigCommerce ThumbScroll](https://github.com/iamandrebulatov/BC-ThumbScroll)
+* [BigCommerce Navigation Brand Listing Images](https://github.com/iamandrebulatov/BC-Nav-Brand-Listing-Images)
 
 
 
